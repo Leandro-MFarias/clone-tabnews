@@ -1,1 +1,1 @@
-gitleaks protect --staged
+npx lint-staged
